@@ -13,7 +13,9 @@ Senior IT engineer with 10+ years in enterprise end-user computing and workplace
 - **Service management:** ServiceNow ITSM, escalations, root cause analysis, SLA delivery
 - **Automation & AI:** n8n, Claude Code, OpenAI API, Python, SQL. For example, I automated a loaner-device workflow end to end (ticket creation, device assignment, return reminders, status updates)
 
-### Featured project
+### Featured projects
+
+**[IT Loaner Device Automation](https://github.com/melshereif/n8n-it-loaner-automation):** n8n workflows that run an IT loaner-laptop program end to end: request form, fair device assignment with double-booking protection, due-soon and overdue reminders, return and repair tracking. Google Sheets + Gmail, logic covered by 36 automated tests.
 
 **[Song Tailor](https://github.com/melshereif/songtailor):** a live e-commerce business I built and run end to end, using AI coding agents as my development team.
 
