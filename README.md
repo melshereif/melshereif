@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Elshereif 👋
+# Mohamed Elshereif
 
 **Senior IT Engineer, Enterprise Technology at Salesforce** · New York
 🎓 M.S. in Computer Science student at Georgia Southwestern State University
