@@ -1,6 +1,6 @@
 # Mohamed Elshereif
 
-**Senior IT Engineer, Enterprise Technology at Salesforce** · New York
+**Senior IT Engineer, Enterprise Technology at Salesforce** · New York<br>
 🎓 M.S. in Computer Science student at Georgia Southwestern State University
 
 Senior IT engineer with 10+ years in enterprise end-user computing and workplace technology across financial services and tech. I build AI agents and automation workflows that take repetitive IT work off people's plates.
