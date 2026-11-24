@@ -17,7 +17,7 @@ A public n8n project that handles laptop requests, device assignment, reminders,
 
 ### [Song Tailor](https://songtailor.net)
 
-I founded Song Tailor, a custom music ordering business. Here are two systems behind it:
+I founded Song Tailor, a custom music ordering business operated by **EGYRICAN LLC**. Here are two systems behind it:
 
 - **Video and content pipeline:** Built a Python pipeline with FFmpeg, Pillow, and faster-whisper to turn a song into a lyric-timed video, vertical Short, highlight clip, cover images, and social post copy.
 - **Ordering and notifications:** Run the site on Cloudflare Pages with Stripe checkout and n8n order notifications. The site is public and its source code is private.
